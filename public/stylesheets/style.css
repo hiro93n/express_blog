@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", 游ゴシック, Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+li {
+  list-style-type: none
+}
+
+li h2{
+	margin-left:-16px;
+}
+
+li form{
+	float:left;
+}
